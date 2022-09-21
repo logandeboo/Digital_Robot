@@ -1,6 +1,6 @@
 # Unity-Robot-Competition-Script
-•	Placed second out of 20 in ‘capture the flag’ style single elimination robot tournament
-•	1v1 competition involved retrieving more flags than an opponent while exchanging laser fire
-•	Designed robot in Unity and automated movement and ray tracing using C#
+
+This script placed my digital robot second out of 20 in a capture the flag style robot tournament held in class at the University of British Columbia. Robots faced off 1v1 attempting to capture the most balls from the center of the arena while exchanging lazer fire which if hit, would result in paralysis.
+
 
 
